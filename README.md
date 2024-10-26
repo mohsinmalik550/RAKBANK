@@ -1,3 +1,10 @@
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 21](https://github.com/user-attachments/assets/12cf77dd-5b82-496d-9222-31ea0cf8c190)
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 18](https://github.com/user-attachments/assets/21a2f0c1-3cd0-4b70-adc6-57ebffbe2836)
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 15](https://github.com/user-attachments/assets/1aa200ea-08a5-4f2e-8912-4875976b76e5)
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 12](https://github.com/user-attachments/assets/bbdd0c45-7575-4dd6-84e8-7c2bc1511ced)
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 10](https://github.com/user-attachments/assets/419fb852-9a53-4d24-8e25-b5d82d816222)
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 07](https://github.com/user-attachments/assets/6d31dcbb-16e6-4761-afb0-886c8f8e0f71)
+![Simulator Screenshot - iPhone 14 Pro iOS 17 2 - 2024-10-26 at 19 27 04](https://github.com/user-attachments/assets/2154a3dc-a2f8-4b31-a5ac-e0ccff3c8436)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
